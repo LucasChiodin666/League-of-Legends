@@ -52,3 +52,10 @@ El código está dividido en dos archivos:
 ## Como usar el código
 
 Abrir el archivo main.py y ejecutar el código.
+
+Integrantes del equipo:
+-CHIODIN, Lucas Ezequiel (Team Lead)
+-COCERES, Francisco Lautaro
+-FRANETOVICH, María Pía
+-IZQUIERDO, Luciana 
+
