@@ -61,3 +61,6 @@ Integrantes del equipo:
 -FRANETOVICH, María Pía
 -IZQUIERDO, Luciana 
 
+![Portada2 de League of Legends](imagenes/portada_lol2.jpg)
+
+¡Buena suerte en la grieta, invocador!
