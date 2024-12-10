@@ -3,7 +3,9 @@
 Este proyecto es un programa interactivo que permite gestionar una lista de campeones de **League of Legends**. 
 Con este sistema, los usuarios pueden agregar, eliminar, buscar y listar campeones, todo desde una interfaz en la terminal.
 
----
+
+![Portada de League of Legends](imagenes/portada_lol.jpg)
+
 
 ## Funcionalidades
 
