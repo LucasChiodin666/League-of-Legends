@@ -55,11 +55,11 @@ El código está dividido en dos archivos:
 
 Abrir el archivo main.py y ejecutar el código.
 
-Integrantes del equipo:
--CHIODIN, Lucas Ezequiel (Team Lead)
+## Integrantes del equipo:
 -COCERES, Francisco Lautaro
 -FRANETOVICH, María Pía
 -IZQUIERDO, Luciana 
+-CHIODIN, Lucas Ezequiel (Team Lead)
 
 ![Portada2 de League of Legends](imagenes/portada_lol2.jpg)
 
